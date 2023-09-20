@@ -48,17 +48,7 @@
 
   }
 
- 
-
-  .Aslaksen {
-
-    color:brown;
-
-  }
-
- 
-
-table {
+ table {
 
     width: 100%;
 
@@ -102,7 +92,7 @@ tr:nth-child(even) {
 
  
 
-.Hovstad:hover {
+.SOLNESS:hover {
 
     text-shadow:2px 2px 4px #FF5733;
 
@@ -112,7 +102,7 @@ tr:nth-child(even) {
 
 }
 
-.PeterStockmann:hover {
+.MRS.SOLNESS:hover {
 
     text-shadow:2px 2px 4px chartreuse;
 
@@ -122,13 +112,4 @@ tr:nth-child(even) {
 
 }
 
-.Aslaksen:hover {
-
-    text-shadow:2px 2px 4px fuchsia;
-
-    border:2px solid lawngreen;
-
-    cursor: pointer;
-
-}
 

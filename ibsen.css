@@ -8,9 +8,7 @@
 
   }
 
- 
-
-  .direction {
+   .direction {
 
     font-family:'Times New Roman', Times, serif;
 
@@ -18,33 +16,24 @@
 
     color: black;
 
-    background-color:khaki;
+    background-color:rgb(128, 204, 240);
 
   }
-
- 
-
-  .direction:hover {
+    .direction:hover {
 
     background-color:#cae67e;
 
-    color:darkred;
+    color:rgb(168, 93, 93);
 
   }
+  .MrsSOLNESS {
 
- 
+    color:rgb(68, 68, 210);
 
+  }
   .SOLNESS {
 
-    color:blue;
-
-  }
-
- 
-
-  .MRS.SOLNESS {
-
-    color:fuchsia;
+    color:rgb(192, 70, 192);
 
   }
 
@@ -70,13 +59,11 @@ th, td {
 
     text-align: center;
 
-    color:darkorchid;
+    color:rgb(133, 55, 172);
 
 }
 
- 
-
-th {
+ th {
 
     background-color: #cae67e;  
 
@@ -90,19 +77,16 @@ tr:nth-child(even) {
 
   }
 
- 
-
-.SOLNESS:hover {
+ .MrsSOLNESS:hover {
 
     text-shadow:2px 2px 4px #FF5733;
 
-    border: 2px solid #FF5733;
+    border: 2px solid #ba543d;
 
     cursor: pointer;
 
 }
-
-.MRS.SOLNESS:hover {
+.SOLNESS:hover {
 
     text-shadow:2px 2px 4px chartreuse;
 

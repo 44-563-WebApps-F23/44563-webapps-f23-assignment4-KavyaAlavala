@@ -95,25 +95,32 @@ tr:nth-child(even) {
     cursor: pointer;
 
 }
-ul.navbar-horizontal {
-  /* remove these */
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-  }
-  ul.navbar-horizontal li {
-    float:left; /* line up horizontally */
-    color:#000;
-    background-color:purple
-  }
-  ul.navbar-horizontal a {
-    display:block;
-    padding:8px
-  /* on hover change the link color*/
-    ul.navbar-horizontal a:hover {
-    background-color: #555;
-    color:yellow ;
-  }
+.navbar-horizontal{
+  padding: 14px;
+  float:left;
+  background-color:black;
+  color:black;
+  display:block;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 18px;
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #11927c;
+}
+
+li {
+  float: left;
 }
 
 

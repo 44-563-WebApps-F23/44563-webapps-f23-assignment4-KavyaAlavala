@@ -84,6 +84,7 @@ tr:nth-child(even) {
     border: 2px solid #ba543d;
 
     cursor: pointer;
+    filter:blur(1px);
 
 }
 .SOLNESS:hover {
@@ -93,6 +94,7 @@ tr:nth-child(even) {
     border:2px solid rgb(128, 204, 240);
 
     cursor: pointer;
+    filter:blur(1px);
 
 }
 .navbar-horizontal{
